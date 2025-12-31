@@ -8,16 +8,16 @@ Purple Buzz is a responsive business website created using HTML, CSS, and Bootst
 - Easy to understand and modify
 - Works smoothly in browser
 
-##Technologies Used
+## Technologies Used
 - HTML – For structure of the webpage
 - CSS – For styling and design
 
-##Files Uploaded
+## Files Uploaded
 - index.html – Main webpage file
 - style.css – Design and styling file
 - Screen recording video demo of the project
 
-##Conclusion
+## Conclusion
 This project helps in understanding the basic concepts of web development.
 It shows how HTML is used to create structure and CSS is used to design and style the webpage.
 It is a good beginner project for learning front-end development.
